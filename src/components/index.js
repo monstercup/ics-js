@@ -1,4 +1,5 @@
 export VALARM from './VALARM'
 export VCALENDAR from './VCALENDAR'
 export VEVENT from './VEVENT'
+export VTIMEZONE from './VTIMEZONE'
 export VTODO from './VTODO'
