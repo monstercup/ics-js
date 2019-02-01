@@ -2,5 +2,6 @@ export {
   VALARM,
   VCALENDAR,
   VEVENT,
-  VTODO
+  VTODO,
+  VTIMEZONE
 } from './components'
